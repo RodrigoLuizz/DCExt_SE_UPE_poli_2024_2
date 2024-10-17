@@ -33,6 +33,12 @@ Para a realização da prática proposta, são necessários os seguintes requisi
 5. Certifique-se de que o STMCubeMX esteja devidamente configurado para o modelo STM32H7.
 6. Compile e carregue o código na placa NUCLEO-H753ZI.
 
+## Estrutura do Projeto
+
+- **/code**: Contém os arquivos de código-fonte.
+- **/tutorial**: Documento com o tutorial passo a passo da execução e elaboração do projeto
+- **/video**: Contém um video com o resultado obtido no projeto.
+
 ## Autores
 
 - Denilson José do Bom Jesus Silva de Lima
